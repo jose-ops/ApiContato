@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc5_Contatos", "Mvc5_Contatos\Mvc5_Contatos.csproj", "{E91B3778-4DF6-4729-B0BA-6F4CD17A4C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiContatos", "apiContatos\apiContatos.csproj", "{D932881D-664D-4D72-A974-525168B781E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E91B3778-4DF6-4729-B0BA-6F4CD17A4C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91B3778-4DF6-4729-B0BA-6F4CD17A4C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91B3778-4DF6-4729-B0BA-6F4CD17A4C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91B3778-4DF6-4729-B0BA-6F4CD17A4C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D932881D-664D-4D72-A974-525168B781E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D932881D-664D-4D72-A974-525168B781E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D932881D-664D-4D72-A974-525168B781E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D932881D-664D-4D72-A974-525168B781E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1378B440-585C-40E8-84C6-9F58806201A3}
+	EndGlobalSection
+EndGlobal
